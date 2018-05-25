@@ -1,0 +1,6 @@
+node_modules/
+.sass-cache/
+clipboard
+*.zip
+resources/
+static_index.html
